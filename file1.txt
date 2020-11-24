@@ -1,2 +1,0 @@
-learning git  is going well so far
-learning git  is going well so far --> file1.txt
